@@ -1,0 +1,324 @@
+[
+    {
+        "id": 1,
+        "nom": "ABSI",
+        "prenom": "Ouramdane",
+        "email": "ouramdane.absi@se.univ-bejaia.dz",
+        "nom_discord": "ramdan_08#5434"
+    },
+    {
+        "id": 2,
+        "nom": "AGHOUILES",
+        "prenom": "Ilyes",
+        "email": "ilyes.aghouiles@se.univ-bejaia.dz",
+        "nom_discord": "hamza_ilyes"
+    },
+    {
+        "id": 3,
+        "nom": "AKKAL",
+        "prenom": "Abdelkrim",
+        "email": "abdelkrim.akkal@se.univ-bejaia.dz",
+        "nom_discord": "Krimou#6273"
+    },
+    {
+        "id": 4,
+        "nom": "AKROUR",
+        "prenom": "Salima",
+        "email": "salima.akrour@se.univ-bejaia.dz",
+        "nom_discord": "alia#6230"
+    },
+    {
+        "id": 5,
+        "nom": "AMAROUCHE",
+        "prenom": "Faiza",
+        "email": "faiza.amarouche@se.univ-bejaia.dz",
+        "nom_discord": "FaiZa#9475"
+    },
+    {
+        "id": 6,
+        "nom": "BELKAID",
+        "prenom": "Imene",
+        "email": "imene.belkaid@se.univ-bejaia.dz",
+        "nom_discord": "imene7203"
+    },
+    {
+        "id": 7,
+        "nom": "BELKEBIR",
+        "prenom": "Mohand Tahar",
+        "email": "mohandtahar.belkebir@se.univ-bejaia.dz",
+        "nom_discord": "_mamou"
+    },
+    {
+        "id": 8,
+        "nom": "BENALI",
+        "prenom": "Ramy",
+        "email": "benali.ramy.2@gmail.com",
+        "nom_discord": "tisouu"
+    },
+    {
+        "id": 9,
+        "nom": "BENATSI",
+        "prenom": "Feriel",
+        "email": "feriel.benatsi@se.univ-bejaia.dz",
+        "nom_discord": "arielbenatsi"
+    },
+    {
+        "id": 10,
+        "nom": "BENBEZTOUT",
+        "prenom": "Louiza",
+        "email": "louiza.benbeztout@se.univ-bejaia.dz",
+        "nom_discord": "louisa_benbzt"
+    },
+    {
+        "id": 11,
+        "nom": "BOUABID",
+        "prenom": "Houa",
+        "email": "bouabidhoua@gmail.com",
+        "nom_discord": "bouabidhawa#5007"
+    },
+    {
+        "id": 12,
+        "nom": "BOUAICHI",
+        "prenom": "Billal",
+        "email": "Billal.bouaichi@se.univ-bejaia.dz",
+        "nom_discord": "darkeagle4807"
+    },
+    {
+        "id": 13,
+        "nom": "BOUAMAMA",
+        "prenom": "Melissa",
+        "email": "melissa.bouamama@se.univ-bejaia.dz",
+        "nom_discord": "melissaouams3"
+    },
+    {
+        "id": 14,
+        "nom": "BOUAMAMA",
+        "prenom": "Badredine",
+        "email": "bouamabadi@gmail.com",
+        "nom_discord": "badredine"
+    },
+    {
+        "id": 15,
+        "nom": "BOUAMARA",
+        "prenom": "Nesrine",
+        "email": "nesrine.bouamara@se.univ-bejaia.dz",
+        "nom_discord": "Nesrine#9835"
+    },
+    {
+        "id": 16,
+        "nom": "BOUBADJOU",
+        "prenom": "Massizelle",
+        "email": "boubadjoumassizelle@gmail.com",
+        "nom_discord": "massizelle"
+    },
+    {
+        "id": 17,
+        "nom": "CHEBBOUT",
+        "prenom": "Rafik",
+        "email": "Rafik.chebbout@se.univ-bejaia.dz",
+        "nom_discord": "rafik Chebbout#7167"
+    },
+    {
+        "id": 18,
+        "nom": "DJOUAD",
+        "prenom": "Zakari",
+        "email": "Zakaridjouad@gmail.com",
+        "nom_discord": "zack4020"
+    },
+    {
+        "id": 19,
+        "nom": "DRIES",
+        "prenom": "Amina",
+        "email": "aminadries25@gmail.com",
+        "nom_discord": "aminaidrs"
+    },
+    {
+        "id": 20,
+        "nom": "HACHEMI",
+        "prenom": "Rayan",
+        "email": "rayanehm34@gmail.com",
+        "nom_discord": "rayan_hcm.0"
+    },
+    {
+        "id": 21,
+        "nom": "HADJI",
+        "prenom": "Melissa",
+        "email": "melissa.hadji@se.univ-bejaia.dz",
+        "nom_discord": "melissahadji"
+    },
+    {
+        "id": 22,
+        "nom": "HEMMAR",
+        "prenom": "Ziad",
+        "email": "ziad.hemmar@se.univ-bejaia.dz",
+        "nom_discord": "ziadhmr"
+    },
+    {
+        "id": 23,
+        "nom": "IDRISSOU",
+        "prenom": "Amina",
+        "email": "amina.idrissou@se.univ-bejaia.dz",
+        "nom_discord": "aminaidrs"
+    },
+    {
+        "id": 24,
+        "nom": "KADRI",
+        "prenom": "Ikram",
+        "email": "Ikram.kadri@se.univ-bejaia.dz",
+        "nom_discord": "kdr.ik#4886"
+    },
+    {
+        "id": 25,
+        "nom": "KESSOURI",
+        "prenom": "Chaouki",
+        "email": "chaouki.kessouri@se.univ-bejaia.dz",
+        "nom_discord": "chaoukikessouri"
+    },
+    {
+        "id": 26,
+        "nom": "LADRANI",
+        "prenom": "Amine",
+        "email": "ladraniamine@gmail.com",
+        "nom_discord": "aminerhmn"
+    },
+    {
+        "id": 27,
+        "nom": "LAKHDAR CHAOUCH",
+        "prenom": "Imene",
+        "email": "imene.lakhdarchaouch@se.univ-bejaia.dz",
+        "nom_discord": "imenelc"
+    },
+    {
+        "id": 28,
+        "nom": "LALAOUI",
+        "prenom": "Arezki",
+        "email": "arezki.lalaoui@se.univ-bejaia.dz",
+        "nom_discord": "arezkii"
+    },
+    {
+        "id": 29,
+        "nom": "MADI",
+        "prenom": "Kousseila",
+        "email": "kousseila.madi@se.univ-bejaia.dz",
+        "nom_discord": "Ukiyo#2850"
+    },
+    {
+        "id": 30,
+        "nom": "MEDJEDOUB",
+        "prenom": "Gaya",
+        "email": "gaya.medjedoub@se.univ-bejaia.dz",
+        "nom_discord": "gayamedj"
+    },
+    {
+        "id": 31,
+        "nom": "MELIANI",
+        "prenom": "Ines",
+        "email": "ines.meliani@se.univ-bejaia.dz",
+        "nom_discord": "inesmeliani"
+    },
+    {
+        "id": 32,
+        "nom": "OUALI",
+        "prenom": "Wassim",
+        "email": "mohamedwassimd.ouali@se.univ-bejaia.dz",
+        "nom_discord": "Ouali Wassim#9477"
+    },
+    {
+        "id": 33,
+        "nom": "OUARET",
+        "prenom": "Badis",
+        "email": "badis.ouaret@se.univ-bejaia.dz",
+        "nom_discord": "badissaldae"
+    },
+    {
+        "id": 34,
+        "nom": "OUHENIA",
+        "prenom": "Anis",
+        "email": "anisohn985123@gmail.com",
+        "nom_discord": "anis_ohn"
+    },
+    {
+        "id": 35,
+        "nom": "RAHMOUNI",
+        "prenom": "Mohamed Amine",
+        "email": "rahmounimhdamine@gmail.com",
+        "nom_discord": "aminerhmn"
+    },
+    {
+        "id": 36,
+        "nom": "REZOUALI",
+        "prenom": "Imane",
+        "email": "Imane.rezouali@se.univ-bejaia.dz",
+        "nom_discord": "imane_rz"
+    },
+    {
+        "id": 37,
+        "nom": "SACI",
+        "prenom": "Missipssa",
+        "email": "missipssa.saci@se.univ-bejaia.dz",
+        "nom_discord": "missi.psa"
+    },
+    {
+        "id": 38,
+        "nom": "SAIDI",
+        "prenom": "Abdelhamid",
+        "email": "saidiabdel20o3@gmail.com",
+        "nom_discord": "hamid.sd"
+    },
+    {
+        "id": 39,
+        "nom": "TEBIB",
+        "prenom": "Safouane",
+        "email": "Tebibe42@gmail.com",
+        "nom_discord": "safouuu"
+    },
+    {
+        "id": 40,
+        "nom": "TIDJET",
+        "prenom": "Ghilas",
+        "email": "ghilas.tidjet@se.univ-bejaia.dz",
+        "nom_discord": "gt6095"
+    },
+    {
+        "id": 41,
+        "nom": "TOUATI",
+        "prenom": "Lina",
+        "email": "lina.touati@se.univ-bejaia.dz",
+        "nom_discord": "lina___007"
+    },
+    {
+        "id": 42,
+        "nom": "TRIKI",
+        "prenom": "Dhia-Eddine",
+        "email": "dhiawalker@gmail.com",
+        "nom_discord": "diwalkerdz"
+    },
+    {
+        "id": 43,
+        "nom": "YAICI",
+        "prenom": "Yacine",
+        "email": "yacine.yaici@se.univ-bejaia.dz",
+        "nom_discord": ".cicine"
+    },
+    {
+        "id": 44,
+        "nom": "ZENATI",
+        "prenom": "Lyes",
+        "email": "itanezseyl@gmail.com",
+        "nom_discord": "seylitanez"
+    },
+    {
+        "id": 45,
+        "nom": "ZERARGA",
+        "prenom": "Amine",
+        "email": "amine.zerarga@se.univ-bejaia.dz",
+        "nom_discord": "amine_zrg"
+    },
+    {
+        "id": 46,
+        "nom": "ZIANE",
+        "prenom": "Talwit",
+        "email": "ztalwit@gmail.com",
+        "nom_discord": "Talwit zn#9804"
+    }
+]
